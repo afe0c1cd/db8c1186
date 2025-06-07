@@ -1,0 +1,5 @@
+package: generated
+output: generated/gen.go
+generate:
+  types: true
+  echo-server: true 
